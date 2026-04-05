@@ -1,2 +1,2 @@
 # github-copilot-instructions
-Meus instructions do GitHub para Melhorar e padronizar as respostas do github copilot.
+Meus instructions do GitHub Copilot para Melhorar e padronizar as respostas com base nas tecnologias utilizadas.
